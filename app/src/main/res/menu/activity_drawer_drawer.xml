@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <!--
+        <item
+            android:title="ΑΝΔΡΑΣ"
+            android:icon="@drawable/ic_menu_camera"
+            />
+
+        <group android:checkableBehavior="single">
+
+
+
+
+            <item
+                android:title="Καλτσες"
+                android:id="@+id/nav_andras_kal" />
+
+            <item
+                android:title="Εσώρουχα"
+                android:id="@+id/nav_andras_es" />
+
+            <item
+                android:title="Outerwear"
+                android:id="@+id/nav_andras_ou" />
+
+        </group>
+
+            <item
+
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="ΓΥΝΑΙΚΑ" />
+
+        <group android:checkableBehavior="single">
+
+            <item
+                android:title="Καλτσες"
+                android:id="@+id/nav_gynaika_kal" />
+
+            <item
+                android:title="Εσώρουχα"
+                android:id="@+id/nav_gynaika_es" />
+
+            <item
+                android:title="Outerwear"
+                android:id="@+id/nav_gynaika_ou" />
+
+        </group>
+
+            <item
+
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="ΠΑΙΔΙ" />
+
+        <group android:checkableBehavior="single">
+            <item
+                android:title="Καλτσες"
+                android:id="@+id/nav_paidi_kal" />
+        </group>
+
+
+    <group android:checkableBehavior="single">
+
+            <item
+                android:id="@+id/nav_bamboo"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="ΒΑΜΒΟΟ" />
+        </group>
+
+        <item android:title="Λογαριασμός">
+            <menu>
+                <item
+                    android:id="@+id/nav_logariasmos"
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="Ο λογαριασμός μου" />
+                <item
+                    android:id="@+id/nav_kalathi"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="Καλάθι" />
+            </menu>
+        </item>
+-->
+    </menu>

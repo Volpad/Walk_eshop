@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "215762345695",
+    "firebase_url": "https://walk-b144d.firebaseio.com",
+    "project_id": "walk-b144d",
+    "storage_bucket": "walk-b144d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215762345695:android:adb4e3178f11fe57",
+        "android_client_info": {
+          "package_name": "com.example.andreas.walk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215762345695-lgbhal04a42dqokevolf7gedq0kttvdm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andreas.walk",
+            "certificate_hash": "069ddf37c4dd087e748d9209c2bce1b12ceb9502"
+          }
+        },
+        {
+          "client_id": "215762345695-ho5t297jt0nlcseq4v12iae46cpeolfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz7Nt-Cwd-fYHn30g9Ju-2QuIWB5Wqp6E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215762345695-ho5t297jt0nlcseq4v12iae46cpeolfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
